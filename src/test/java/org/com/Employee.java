@@ -16,4 +16,14 @@ public class Employee {
 System.out.println("8956877777");
 	}
 
+	private void Hello() {
+
+		System.out.println("Hello");
+	}
+	private void Welcome() {
+
+		System.out.println("Welcome");
+
+	}
+	
 }
