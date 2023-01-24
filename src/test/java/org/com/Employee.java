@@ -13,7 +13,19 @@ public class Employee {
 	}
 	private void comPhoneNum() {
 
-System.out.println("8956877777");
+		System.out.println("8956877777");
 	}
 
+	private void empName() {
+	
+		System.out.println("Greens");
+	}
+	private void empId() {
+		System.out.println("1234");
+	
+	}
+	private void empPhoneNum() {
+
+		System.out.println("8956877777");
+	}
 }
